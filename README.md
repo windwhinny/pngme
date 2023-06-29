@@ -1,5 +1,5 @@
 # pngme
-A png parser
+A png parser, implements of https://picklenerd.github.io/pngme_book/introduction.html
 
 # Useage
 
